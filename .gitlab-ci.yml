@@ -1,0 +1,5 @@
+scotty:
+  script:
+    - scotty experiment perform
+  tags:
+    - scotty-agent
